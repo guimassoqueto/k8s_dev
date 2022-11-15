@@ -1,0 +1,1 @@
+Identical as ReplicaSet, except for ´kind´ key
