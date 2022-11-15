@@ -1,0 +1,1 @@
+This is a multicontainer pod. See that the conteiner have 2 images,(nginx, redis)
