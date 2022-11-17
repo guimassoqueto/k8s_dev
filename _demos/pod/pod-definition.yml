@@ -11,3 +11,8 @@ spec:
   containers:
     - name: nginx-container
       image: nginx
+      ports:
+        - containerPort: 8080
+      env:
+        - name: ENV_VAR
+          value: env_value
