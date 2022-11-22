@@ -11,5 +11,5 @@ spec:
       ports:
         - containerPort: 8080
       envFrom:
-        - configMapref:
-            name: app-config
+        - configMapRef:
+          name: app-config
